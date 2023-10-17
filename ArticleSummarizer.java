@@ -10,10 +10,10 @@ public class ArticleSummarizer {
            " or Jesus the Nazarene (Mark 1:24; Luke 24:19). After his death he came to be called Jesus Christ. "+
            " Christ was not originally a name but a title derived from the Greek word christos, which translates"+
             "the Hebrew term meshiah (Messiah), meaning “the anointed one.” This title indicates that Jesus’ "+
-            followers believed him to be the anointed son of King David, whom some Jews expected to restore the fortunes of Israel."+
-           " Passages such as Acts of the Apostles 2:36 show that some early Christian writers knew that the Christ was properly a title,
-            but in many passages of the New Testament, including those in the letters of the Apostle Paul,"+
-           " the name and title are combined and used together as Jesus’ name: Jesus Christ or Christ Jesus (Romans 1:1; 3:24).
+            "followers believed him to be the anointed son of King David, whom some Jews expected to restore the fortunes of Israel."+
+           " Passages such as Acts of the Apostles 2:36 show that some early Christian writers knew that the Christ was properly a title,"+
+            "but in many passages of the New Testament, including those in the letters of the Apostle Paul,"+
+           " the name and title are combined and used together as Jesus’ name: Jesus Christ or Christ Jesus (Romans 1:1; 3:24)."+
             "Paul sometimes simply used Christ as Jesus’ name (e.g., Romans 5:6)";
 
         String summary = summarizeArticle(article);
