@@ -9,7 +9,7 @@ public class ArticleSummarizer {
             "called Jesus son of Joseph (Luke 4:22; John 1:45, 6:42), Jesus of Nazareth (Acts 10:38),"+
            " or Jesus the Nazarene (Mark 1:24; Luke 24:19). After his death he came to be called Jesus Christ. "+
            " Christ was not originally a name but a title derived from the Greek word christos, which translates"+
-            "the Hebrew term meshiah (Messiah), meaning “the anointed one.” This title indicates that Jesus’ "+
+            "the Hebrew term meshiah (Messiah), meaningthe inted one This title indicates that"+
             "followers believed him to be the anointed son of King David, whom some Jews expected to restore the fortunes of Israel."+
            " Passages such as Acts of the Apostles 2:36 show that some early Christian writers knew that the Christ was properly a title,"+
             "but in many passages of the New Testament, including those in the letters of the Apostle Paul,"+
