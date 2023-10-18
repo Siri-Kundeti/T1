@@ -3,7 +3,7 @@ public class ArticleSummarizer {
         String article = "This is a sample article that we want to summarize. " +
                 "It contains several sentences and provides information " +
                 "on a particular topic. The goal is to create a summary " +
-                "that captures the key points of the article."
+                "that captures the key points of the article.";
 
         String summary = summarizeArticle(article);
         System.out.println("Summary of the article:");
