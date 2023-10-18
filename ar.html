@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Article Summarization</title>
+</head>
+<body>
+    <h1>Article Summarization</h1>
+    
+    <h2>Article:</h2>
+    <p id="article">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. 
+        Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. 
+        Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta.
+        <!-- Your article content goes here -->
+    </p>
+
+    <h2>Summary:</h2>
+    <p id="summary"></p>
+    
+    <button onclick="summarize()">Summarize</button>
+    
+    <script>
+        function summarize() {
+            const articleText = document.getElementById('article').textContent;
+            const summary = generateSummary(articleText);
+            document.getElementById('summary').textContent = summary;
+        }
+
+        function generateSummary(text) {
+            // Implement your summarization algorithm here
+            // This is a placeholder function; you would need to use a more advanced method
+            // such as NLP libraries or machine learning for real summarization.
+            // For a simple example, you can just truncate the text.
+            const maxLength = 100;
+            if (text.length <= maxLength) {
+                return text;
+            } else {
+                return text.slice(0, maxLength) + '...';
+            }
+        }
+    </script>
+</body>
+</html>
