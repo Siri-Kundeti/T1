@@ -2,7 +2,8 @@ public class ArticleSummarizer {
     public static void main(String[] args) {
         String article = "Romeo is a Montague, and Juliet a Capulet."+ 
             "Their families are enmeshed in a feud, but the moment they meet—when Romeo"+
-            "and his friends attend a party at Juliet’s house in disguise—the two fall in love and quickly decide that they want to be married."+            A friar secretly marries them, hoping to end the feud."+ 
+            "and his friends attend a party at Juliet’s house in disguise—the two fall in love and quickly decide that they want to be married."+         
+            "A friar secretly marries them, hoping to end the feud."+ 
             "Romeo and his companions almost immediately encounter Juliet’s cousin Tybalt, who challenges Romeo."+
            " When Romeo refuses to fight, Romeo’s friend Mercutio accepts the challenge and is killed."+
             "Romeo then kills Tybalt and is banished. He spends that night with Juliet and then leaves for Mantua."+
