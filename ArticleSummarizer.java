@@ -6,6 +6,8 @@ public class ArticleSummarizer {
                 "that captures the key points of the article.";
 
         String summary = summarizeArticle(article);
+      System.out.println("Original article:");
+         System.out.println(article);
         System.out.println("Summary of the article:");
         System.out.println(summary);
     }
